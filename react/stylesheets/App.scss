@@ -1,0 +1,36 @@
+/* YOUR STYLING HERE */
+body{
+    background-color: #E5F3F4;
+}
+.div{
+  background-color: #E5F3F4;
+  color: black;
+  font-family: "Tahoma", cursive, sans-serif;
+}
+
+h1{
+  color: #37BECC;
+  text-align: center;
+  font-family: "Tahoma", cursive, sans-serif;
+}
+
+button{
+  background-color: black;
+  color: white;
+  border: solid 2px black;
+  width: 30px;
+  margin-right: 10px;
+}
+
+button:focus {outline:0
+};
+
+h3{
+  font-family: "Tahoma", cursive, sans-serif;
+  color: #777777;
+}
+
+p{
+  font-family: "Tahoma", cursive, sans-serif;
+  color: #777777;
+}
